@@ -1,0 +1,23 @@
+.start{
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.start h1
+{
+    font-size: 3.5em;
+}
+.start p
+{
+    margin-bottom: 2em;
+    color: #f0b820 ;
+}
+.start img
+{   
+    margin-top: 50px;
+    margin-bottom: -45px;
+    width: 80px;
+}
